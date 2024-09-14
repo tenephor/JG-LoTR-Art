@@ -458,3 +458,11 @@ Depicts Aragorn and the hobbits' fight on Weathertop.
 Depicts Gandalf's fight on the bridge in Moria. See also JG22 for similar content.  
 [JG75](https://www.inprnt.com/gallery/breathing2004/you-cannot-pass/): INprnt  
 [JG75](https://www.deviantart.com/breath-art/art/You-cannot-pass-405256408): Deviant Art
+
+### JG76: Call of Ulmo
+Depicts Tuor and Ulmo  
+[JG76](https://www.inprnt.com/gallery/breathing2004/call-of-ulmo/): INprnt
+
+### JG77: Escape from Orthanc
+Depicts Gandalf and Saruman at Orthanc  
+[JG77](https://www.inprnt.com/gallery/breathing2004/escape-from-orthanc/): INprnt
