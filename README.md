@@ -416,3 +416,8 @@ A serpentine scroll in wide format showing Frodo's adventures in the Hobbit.
 This is a "part 2" of JG41  
 [JG79](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit-ii/): INprnt   
 [JG79](https://x.com/Beathing2004Guo/status/1873373078304227647): X (Twitter)  
+
+### JG80: Years of Trees
+Depicts Telperion and Laurelin in Valinor.  
+Similar to JG7 (Birth of Two Trees) but more stylized.  
+[JG80](https://www.deviantart.com/breath-art/art/years-of-trees-1123442943): Deviant Art.  
