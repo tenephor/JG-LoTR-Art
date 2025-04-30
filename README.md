@@ -1,4 +1,4 @@
-# JG-LoTR-Art
+# Jian Guo's Lord of the Rings Art
 JG's LoTR artwork catalog
 
 Many of us are familiar with the "stained glass" LOTR art works that occasionally get posted. Did you know that there are over 75 works of art by Jian? When you consider all the variants the count gets well into the hundreds.  
