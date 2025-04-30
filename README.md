@@ -468,10 +468,10 @@ Depicts Gandalf and Saruman at Orthanc
 
 ### JG78: Middle Earth (Book Cover)
 Depicts a general book cover with title "middle earth"  
-Only on X; not listed on INprnt or Deviant Art
+Only on X; not listed on INprnt or Deviant Art  
 [JG78](https://x.com/Beathing2004Guo/status/1871402742297792648): X (Twitter)
 
 ### JG79: Long Long Adventure, Part 2 (2024)
 A serpentine scroll in wide format showing Frodo's adventures in the Hobbit.
-This is a "part 2" of JG41
+This is a "part 2" of JG41  
 [JG79](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit-ii/): INprnt
