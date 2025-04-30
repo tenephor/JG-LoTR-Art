@@ -1,16 +1,15 @@
 # JG-LoTR-Art
 JG's LoTR artwork catalog
 
-Many of us are familiar with those "stained glass" LOTR art works that occasionally get posted. Did you know that there are over 75 works of art by Jian? And he's added new ones since you last looked. When you consider all the variants the count gets well into the hundreds.  
+Many of us are familiar with the "stained glass" LOTR art works that occasionally get posted. Did you know that there are over 75 works of art by Jian? When you consider all the variants the count gets well into the hundreds.  
   
-Presented here is (what I think is) a complete itemisation of his artworks (only his LOTR artworks, he paints a lot of other fandoms). It's organised as a list with an artwork number JG*n* with a description, and links to online versions of each artwork. The number is meaningless outside this list, its just to reference for discussion.  
+Presented here is (what I think is) a complete itemisation of his artworks (only his LOTR artworks, he paints other fandoms). It's organised as a list with an artwork number JG*n* with a description, and links to online versions of each artwork. The number is meaningless outside this list, its just to reference for discussion.  
    
-The two main repositories linked for the works are Deviant Art and INprnt. These hold some works in common, but each have unique variants. His works can be purchased. There will likely be work here listed that you haven't seen.  
+The two main repositories linked for the works are Deviant Art and INprnt. These hold some works in common, but each have unique variants. His works can be purchased on those sites.  
   
 On Deviant Art, a larger view of each artwork can be had by clicking on the artwork. For INprnt you have to right-click on the artwork and select "open image in new window".  
 
-Support this amazing artist!
-Enjoy!  
+Support this amazing artist! 
   
   
 ### JG1: A Sudden in Love
@@ -248,12 +247,12 @@ A printable disc cover with circular elvish script and ring imagery on a brown b
 [JG40](https://www.deviantart.com/breath-art/art/logo-of-LOTR-414945916): Deviant Art.  
 
 
-### JG41: Long Long Adventure
-A serpentine scroll in wide format showing Frodo's adventures in the Hobbit. There are two distinct versions of this artwork, a colourful version and a "newer" gold version.  
+### JG41: Long Long Adventure (2013)
+A serpentine scroll in wide format showing Frodo's adventures in the Hobbit. There are two distinct versions of this artwork, a colourful version and a "newer" gold version. 
 [JG41a](https://www.deviantart.com/breath-art/art/a-long-long-adventure-with-hobbit-346224727): Deviant Art (colourful version).  
 [JG41a](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit/): INprnt (colourful version).  
 [JG41b](https://www.deviantart.com/breath-art/art/long-adventure-with-hobbit-version-399734708): Deviant Art (gold version).  
-
+Note: JG79 is "part 2" that continues the story set out in this artwork.
 
 ### JG42: Melian's Forest
 Depicts Melian, Thingol,  and baby.  
@@ -466,3 +465,13 @@ Depicts Tuor and Ulmo
 ### JG77: Escape from Orthanc
 Depicts Gandalf and Saruman at Orthanc  
 [JG77](https://www.inprnt.com/gallery/breathing2004/escape-from-orthanc/): INprnt
+
+### JG78: Middle Earth (Book Cover)
+Depicts a general book cover with title "middle earth"  
+Only on X; not listed on INprnt or Deviant Art
+[JG78](https://x.com/Beathing2004Guo/status/1871402742297792648): X (Twitter)
+
+### JG79: Long Long Adventure, Part 2 (2024)
+A serpentine scroll in wide format showing Frodo's adventures in the Hobbit.
+This is a "part 2" of JG41
+[JG79](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit-ii/): INprnt
