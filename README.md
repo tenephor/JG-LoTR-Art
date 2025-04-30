@@ -165,7 +165,7 @@ Depicts a stately Numenorian with details of Numenor.
 
 ### JG27: Go West
 Depicts the journey of a group elves leaving middle earth. Closely resembles the scene in the movie where Frodo and Sam witness a travelling band of elves heading for the Havens. Two subtle variants exist, one with "Go West" text in the work, and the another with text.  
-[JG27a](https://www.deviantart.com/breath-art/art/go-west-466265960): Deviant Art (with "go West" lettering).  
+[JG27a](https://www.deviantart.com/breath-art/art/go-west-466265960): Deviant Art (with "Go West" lettering).  
 [JG27b](https://www.inprnt.com/gallery/breathing2004/go-west/): INprnt (no "Go West" lettering).  
 
 
@@ -442,7 +442,7 @@ Depicts a top view of Earendil's ship.
 
 
 ### JG73: Welcome from Lothlorien
-Depicts the Fellowship at Lothlorien with Galdriel. There are two versions of this work with the bottom portion of the design being radically different. In the original version, the bottom of the work features Galdriel standing over her bowl with arms outspread. In the later version, she has been replaced by Frodo staring into the bowl.  
+Depicts the Fellowship at Lothlorien with Galadriel. There are two versions of this work with the bottom portion of the design being radically different. In the original version, the bottom of the work features Galadriel standing over her bowl with arms outspread. In the later version, she has been replaced by Frodo staring into the bowl.  
 [JG73a](https://www.deviantart.com/breath-art/art/welcome-from-Lothlorien-324611190): Deviant Art (with Galadriel over bowl)  
 [JG73b](http://img-fotki.yandex.ru/get/9808/24302342.14a/0_9520f_15714f90_orig): Blogspot (with Frodo over bowl)
 
@@ -474,4 +474,5 @@ Only on X; not listed on INprnt or Deviant Art
 ### JG79: Long Long Adventure, Part 2 (2024)
 A serpentine scroll in wide format showing Frodo's adventures in the Hobbit.
 This is a "part 2" of JG41  
-[JG79](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit-ii/): INprnt
+[JG79](https://www.inprnt.com/gallery/breathing2004/a-long-long-adventure-with-hobbit-ii/): INprnt   
+[JG79](https://x.com/Beathing2004Guo/status/1873373078304227647): X (Twitter)
